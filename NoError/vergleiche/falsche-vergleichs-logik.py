@@ -1,4 +1,7 @@
-# Warum wird im folgenden Beispiel immer "Excellent!" ausgegeben
+"""
+Erklären Sie Warum im folgenden Beispiel immer "Excellent!" ausgegeben wirdd
+und korrigieren Sie den Code im Anschluss.
+"""
 
 eingabe = input("Möchtest du ein Spiel spielen? ")
 
